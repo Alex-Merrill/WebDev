@@ -158,7 +158,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var next
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/alexmerrill/Desktop/Middlebury/20-21/SWD/Web Dev/RDMBS/src/pages/api/articles/index.js */"./src/pages/api/articles/index.js");
+module.exports = __webpack_require__(/*! /Users/alexmerrill/Desktop/Middlebury/20-21/SWD/Practicals/practical-07-Alex-Merrill/src/pages/api/articles/index.js */"./src/pages/api/articles/index.js");
 
 
 /***/ }),
